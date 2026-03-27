@@ -41,31 +41,31 @@
 ## ⚙️ Tech Stack
 
 ### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=FF6F00)
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00F7FF)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ---
 
 ### 🧠 AI / Data Science
-![NumPy](https://img.shields.io/badge/NumPy-teal?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-yellow?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=00F7FF)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=A020F0)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=00F7FF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-0A0A0A?style=for-the-badge)
 
 ---
 
 ### ⚡ Backend & Dev Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-orange?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00F7FF)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Groq](https://img.shields.io/badge/Groq-0A0A0A?style=for-the-badge&logoColor=FF6F00)
+
 ---
 
 ## 📊 GitHub Analytics
@@ -93,14 +93,22 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/biprajitbhattacharya400-tech/biprajitbhattacharya400-tech/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/biprajit-bhattacharya-a7ab95388">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
   <a href="mailto:biprajitbhattacharya400@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </p>
 
@@ -120,6 +128,10 @@
 - 🎧 Exploring tech & innovation  
 
 ---
+
+<p align="center">
+  💡 <i>"Code. Learn. Build. Repeat."</i>  
+</p>
 
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
