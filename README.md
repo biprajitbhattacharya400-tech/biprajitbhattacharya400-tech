@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biprajitbhattacharya400-tech/biprajitbhattacharya400-tech/output/github-contribution-grid-snake-dark.svg" />
+ <img src="https://raw.githubusercontent.com/biprajitbhattacharya400-tech/biprajitbhattacharya400-tech/output/github-contribution-grid-snake-dark.svg?v=3" />
 </p>
 
 ---
