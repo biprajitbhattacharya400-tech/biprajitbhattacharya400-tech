@@ -35,8 +35,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&cache_seconds=600&rank_icon=github"/>
-  <img src="https://streak-stats.demolab.com?user=biprajitbhattacharya400-tech&theme=tokyonight&cache_seconds=600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=biprajitbhattacharya400-tech&theme=tokyonight&cache_seconds=1800&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
