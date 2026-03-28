@@ -71,8 +71,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biprajitbhattacharya400-tech&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=...&v=2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=...&v=2" />
 </p>
 
 ---
