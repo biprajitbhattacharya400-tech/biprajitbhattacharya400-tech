@@ -71,8 +71,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=...&v=2" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=...&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&v=2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biprajitbhattacharya400-tech&theme=tokyonight&v=2" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/biprajitbhattacharya400-tech/biprajitbhattacharya400-tech/output/github-contribution-grid-snake-dark.svg?v=3" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=biprajitbhattacharya400-tech&theme=tokyo-night&v=2" />
 </p>
 
 ---
