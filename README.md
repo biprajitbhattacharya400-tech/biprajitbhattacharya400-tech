@@ -75,6 +75,10 @@
   <a href="https://www.linkedin.com/in/biprajit-bhattacharya-a7ab95388">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
+
+  <a href="mailto:biprajitbhattacharya400@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335">
+  </a>
 </p>
 
 ---
