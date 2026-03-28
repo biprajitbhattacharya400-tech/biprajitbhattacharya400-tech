@@ -35,8 +35,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://streak-stats.demolab.com?user=biprajitbhattacharya400-tech&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&cache_seconds=600&rank_icon=github"/>
+  <img src="https://streak-stats.demolab.com?user=biprajitbhattacharya400-tech&theme=tokyonight&cache_seconds=600"/>
 </p>
 
 ---
@@ -44,7 +44,8 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biprajitbhattacharya400-tech&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=FF6F00"/>
 </p>
 
 ---
