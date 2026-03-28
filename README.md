@@ -1,30 +1,52 @@
-<h1 align="center">
-  👋 Hey, I'm Biprajit
-</h1>
+<div align="center">
 
-<h3 align="center">
-  🚀 AI/ML Developer | Backend Engineer | Building Intelligent Systems
-</h3>
+<!-- HERO / TITLE -->
+# 👋 Hi, I'm Biprajit Bhattacharya
+### 🚀 AI/ML Developer | Backend Engineer | FastAPI | LangChain | RAG Systems
 
+<p>
+	<a href="https://www.linkedin.com/in/biprajit-bhattacharya-a7ab95388">LinkedIn</a>
+</p>
+
+</div>
+
+---
+
+<!-- SNAKE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Enthusiast;FastAPI+%7C+LangChain+%7C+RAG;Building+Real+World+AI+Systems;Always+Learning+🚀" />
+  <img src="https://raw.githubusercontent.com/biprajitbhattacharya400-tech/biprajitbhattacharya400-tech/output/github-contribution-grid-snake-dark.svg?v=5" />
 </p>
 
 ---
 
-## 🧠 About Me
+<!-- NAVIGATION -->
+**👨‍💻 Introduction** • **🎓 Education** • **⚙️ Tech Stack** • **📊 GitHub Stats** • **📫 Contact**
 
-- 🎓 B.Tech CSE (AI & ML) Student  
-- 🤖 Focused on AI, LLMs, and Backend Development  
-- ⚡ Building scalable AI systems using FastAPI & LangChain  
-- 📈 Constantly improving through real-world projects  
+---
+
+## 👨‍💻 Introduction
+
+Hi, I’m **Biprajit Bhattacharya**, a **B.Tech Computer Science (AI & ML)** student and passionate **AI/ML Developer**.
+
+I specialize in building **real-world intelligent systems** using:
+- 🤖 LLMs & RAG architectures  
+- ⚡ FastAPI backend systems  
+- 📊 Data-driven AI applications  
+
+I enjoy turning ideas into **scalable, production-ready AI solutions**.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology — B.Tech CSE (AI & ML)**  
+*(Ongoing)*
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🖥️ Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=FF6F00"/>
@@ -32,7 +54,25 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 🤖 AI / Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+</p>
+
+---
+
+### ⚡ Backend & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=FF3131"/>
+  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
@@ -49,7 +89,7 @@
 
 ---
 
-## 📊 Contribution Graph
+## 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=biprajitbhattacharya400-tech&theme=tokyo-night&hide_border=true"/>
@@ -57,24 +97,28 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/biprajitbhattacharya400-tech/biprajitbhattacharya400-tech/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/biprajit-bhattacharya-a7ab95388">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-  </a>
-</p>
+- 🔥 Building AI-powered backend systems  
+- 🧠 Exploring advanced LLM integrations  
+- 📊 Developing scalable analytics platforms  
 
 ---
 
-<p align="center">
-  💡 <i>"Code. Learn. Build. Repeat."</i>
-</p>
+## 🌐 Online Presence
+
+- LinkedIn: https://www.linkedin.com/in/biprajit-bhattacharya-a7ab95388  
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for collaboration, ideas, or tech discussions 🚀
+
+---
+
+<div align="center">
+
+💡 <i>"Code. Learn. Build. Repeat."</i>
+
+</div>
