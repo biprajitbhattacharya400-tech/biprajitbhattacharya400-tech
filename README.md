@@ -25,8 +25,6 @@
 
 ### 🖥️ Languages
 
-### 🖥️ Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=FF6F00"/>
