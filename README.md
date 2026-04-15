@@ -17,7 +17,7 @@
 - 🎓 B.Tech CSE (AI & ML) Student  
 - 🤖 Focused on AI, LLMs, and Backend Development  
 - ⚡ Building scalable AI systems using FastAPI & LangChain  
-- 📈 Constantly improving through real-world projects  
+- 📈 Constantly improving through real-world projects .. 
 
 ---
 
