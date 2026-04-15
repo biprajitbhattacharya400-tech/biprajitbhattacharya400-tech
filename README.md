@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hey, Its Biprajit here ..
+  👋 Hey, It's Biprajit here ..
 </h1>
 
 <h3 align="center">
@@ -17,7 +17,7 @@
 - 🎓 B.Tech CSE (AI & ML) Student  
 - 🤖 Focused on AI, LLMs, and Backend Development  
 - ⚡ Building scalable AI systems using FastAPI & LangChain  
-- 📈 Constantly improving through real-world projects .. 
+- 📈 Constantly improving through real-world projects  
 
 ---
 
@@ -35,31 +35,24 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&cache_seconds=600&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=biprajitbhattacharya400-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=biprajitbhattacharya400-tech&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=biprajitbhattacharya400-tech&theme=tokyonight&cache_seconds=600"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=FF6F00"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biprajitbhattacharya400-tech&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biprajitbhattacharya400-tech&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biprajitbhattacharya400-tech&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
