@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello, It's Biprajit here ..
+  👋 Hello, It's Biprajit here 
 </h1>
 
 <h3 align="center">
